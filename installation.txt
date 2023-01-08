@@ -1,0 +1,18 @@
+npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar@0.7.1 formik yup
+
+npm i @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list 
+# also @fullcalendar/react @fullcalendar/interaction
+
+npm i @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
+
+
+
+Material UI (mui) - 
+Emotion - a library designed for writing css styles with JavaScript
+react-pro-sidebar - a set of components for creating high level and customizable side navigation
+formik - form library for react
+yup - a JavaScript schema builder for value parsing and validation
+fullcalendar - calendar components
+nivo - a rich set of dataviz components
+
+alternative to formik = React Hook Form
